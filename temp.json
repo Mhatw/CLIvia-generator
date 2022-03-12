@@ -1,26 +1,30 @@
 [
   {
     "user": "Anonymous",
-    "score": 0
+    "score": 30
   },
   {
     "user": "miguel",
-    "score": 10
+    "score": 40
   },
   {
     "user": "Mhatw",
-    "score": 0
+    "score": 90
   },
   {
     "user": "Rubocop",
-    "score": 0
+    "score": 50
   },
   {
     "user": "sadfs",
-    "score": 0
+    "score": 20
   },
   {
     "user": "calisto",
-    "score": 0
+    "score": 40
+  },
+  {
+    "user": "Nice",
+    "score": 80
   }
 ]

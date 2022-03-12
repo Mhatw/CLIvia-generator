@@ -199,6 +199,7 @@ class CliviaGenerator
 
   def print_scores
     # print the scores sorted from top to bottom
+    @score_table = (@score_table.sort_by { |k| k["score"] }).reverse
     table = Terminal::Table.new # genero tabla
     table.title = "Top Scores".yellow
     table.headings = ["Name", "Score"]
